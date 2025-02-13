@@ -18,7 +18,7 @@ An advanced AI-powered video editing tool that provides automated dubbing, trans
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/ai-video-editor.git
+git clone https://github.com/vortex-synapse/ai-video-editor.git
 cd ai-video-editor
 ```
 
